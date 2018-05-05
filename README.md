@@ -1,7 +1,7 @@
 # codefight-challenge
 
 
--Examples
+### Examples
 a: 251129265
 b: 673395586
 
