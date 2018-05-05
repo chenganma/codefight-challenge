@@ -15,3 +15,4 @@ expect value : 1
 
 
 This is a fun challenge and interesting. Took me a while to figured it out. It's worth it.
+Was thinking is the fifth bit from the front but actually it's count from the back.
